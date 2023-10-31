@@ -42,7 +42,7 @@ In UnityRobot, you control a robot with limited energy. Your primary objectives 
 
 ## Contributing
 
-We welcome contributions to UnityRobot. If you have suggestions, bug reports, or would like to contribute to the development of the game, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions to UnityRobot.
 
 ## License
 
@@ -54,6 +54,6 @@ UnityRobot is developed by [CutyCat2000] and contributors. Special thanks to the
 
 ## Feedback
 
-We would love to hear your feedback on UnityRobot. If you have any questions, suggestions, or just want to chat with the community, feel free to join our [Discord server](https://discord.gg/UnityRobot).
+We would love to hear your feedback on UnityRobot. If you have any questions, suggestions, or just want to chat with the community, feel free to join our [Discord server](https://discord.gg/j7VsyK8XH3).
 
 Enjoy playing UnityRobot, and may you navigate the challenges of being the last robot on Earth!
